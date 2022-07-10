@@ -1,4 +1,5 @@
 ### 👋 Hi!
+> My Discord Server:https://discord.gg/5Ew9wvjvGV
 
 <img src="https://komarev.com/ghpvc/?username=nomu-3">
 <img src="https://github-readme-stats.vercel.app/api?username=nomu-3&show_icons=true&count_private=true&include_all_commits=true&theme=cobalt">
